@@ -13,5 +13,6 @@ while input
       break
     else
       puts "The computer guessed #{random_number}."
+    end
   end
 end
